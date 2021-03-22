@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ankitkumar0049/ankit_test/_apis/build/status/ankit348.pipelines-java?branchName=master)](https://dev.azure.com/ankitkumar0049/ankit_test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
